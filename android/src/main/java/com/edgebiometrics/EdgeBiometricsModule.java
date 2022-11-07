@@ -69,6 +69,7 @@ public class EdgeBiometricsModule extends ReactContextBaseJavaModule {
 
   public EdgeBiometricsModule(ReactApplicationContext reactContext) {
     super(reactContext);
+    this.AppContext = reactContext;
   }
 
   @Override
