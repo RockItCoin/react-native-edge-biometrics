@@ -150,5 +150,9 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "cleaners": "^0.3.13",
+    "disklet": "^0.5.2"
   }
 }
